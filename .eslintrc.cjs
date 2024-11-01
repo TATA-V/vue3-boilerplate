@@ -6,5 +6,5 @@ module.exports = {
     parser: '@typescript-eslint/parser',
     sourceType: 'module',
   },
-  ignorePatterns: ['tsconfig.app.json', 'tsconfig.node.json'],
+  ignorePatterns: ['tsconfig.app.json', 'tsconfig.node.json', 'README.md'],
 };
