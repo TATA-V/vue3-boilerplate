@@ -1,0 +1,1 @@
+`Vue3` `vue-router` `TailwindCSS` `Vite`
