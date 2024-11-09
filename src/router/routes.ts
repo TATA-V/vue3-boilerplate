@@ -4,11 +4,11 @@ export const routes = [
   {
     path: '/',
     name: 'Home',
-    component: () => import('src/views/HomeView.vue'),
+    component: () => import('src/pages/HomePage.vue'),
   },
   {
     path: '/:pathMatch(.*)*',
     name: 'NotFound',
-    component: () => import('src/views/NotFoundView.vue'),
+    component: () => import('src/pages/NotFoundPage.vue'),
   },
 ] satisfies RouteRecordRaw[];
