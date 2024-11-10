@@ -10,11 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/query-core": "^5.59.20",
+    "@tanstack/vue-query": "^5.59.20",
     "ts-node": "^10.9.2",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
+    "@tanstack/vue-query-devtools": "^5.59.20",
     "@tata-v/eslint-config-vue3": "^1.0.0",
     "@types/node": "^22.8.5",
     "@typescript-eslint/parser": "^8.12.2",

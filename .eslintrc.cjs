@@ -7,4 +7,7 @@ module.exports = {
     sourceType: 'module',
   },
   ignorePatterns: ['tsconfig.app.json', 'tsconfig.node.json', 'README.md'],
+  rules: {
+    'vue/attribute-hyphenation': 'off',
+  },
 };
