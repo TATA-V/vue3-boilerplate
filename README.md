@@ -1,1 +1,1 @@
-`Vue3` `vue-router` `TailwindCSS` `Vite`
+`Vue3` `vue-router` `TailwindCSS` `TanStack-Query` `Vite`
